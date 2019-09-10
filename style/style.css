@@ -1,0 +1,273 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+	
+}
+.warp{
+	width:1500px;
+	margin:0 auto;
+	font-family:"微软雅黑";
+	}
+a{
+	font-size:13px;
+	color:#333;
+	text-decoration:none;
+}
+ul{
+	list-style:none;
+}
+header{
+	width:1366px;
+	height:157px;
+	margin:0 auto;
+	background:url(../images/topback.png);
+	border: #09F 1px solid;
+}
+.s1{
+	width:343px;
+	height:80px;
+	background-image:url(../images/top1.jpg);
+	background-repeat:no-repeat;
+	margin-top:27px;
+	margin-left:80px;
+}
+.s2{
+	width:306px;
+	height:80px;
+	background:url(../images/top2.jpg) no-repeat;
+	float:right;
+	margin-top:-80px;
+	margin-right:80px;
+	}
+footer{
+	float:left;
+	width:1366px;
+	height:136px;
+	margin-left:80px;
+	background:url(../images/bottomback.png) repeat-x;
+	font-size:12px;
+	text-align:center;
+}
+.b{
+	margin-top:10px;
+}
+h1{
+	margin-right:30px;
+	margin-top:5px;
+}
+h1 p{
+	float:right;
+	font-size:14px;
+	color:#FFF;
+	margin-right:40px;
+}
+.h a{
+	float:right;
+	}
+nav li{	
+	display:block;
+	float:left;
+	color:#FFF;
+	margin-top:25px;
+	padding-left:30px;
+	
+}
+.h a{
+	color:#FFF;
+}
+nav ul{
+	margin-left:70px;
+}
+.a0{
+	width:861px;
+	height:260px;
+	background:url(../images/index_r3_c2.png) no-repeat;
+	margin-left:150px;
+	margin-top:10px;
+}
+.art1{
+	width:433px;
+	height:227px;
+	border-image-source:url(../images/border.png);
+	border-image-slice:8 fill;
+	border-image-width:8px;
+	border-image-repeat:round;
+	margin-left:150px;
+	margin-top:10px;
+	margin-bottom:20px;
+}
+.art1 .line{
+	width:424px;
+	height:35px;
+	line-height:35px;
+	margin:auto;
+	margin-left:3px;
+	background:url(../images/index_r7_c2.png) no-repeat;
+}
+.art1 span a{
+	padding:27px;
+	font-weight:bold;
+	line-height:40px;
+}
+.art1 ul li{
+	height:30px;
+	background:url(../images/dot.jpg) no-repeat left center;
+}
+.art1 ul{
+	margin-top:10px;
+	margin-left:15px;
+	}
+.art1 ul a{
+	float:left;
+	width:280px;
+	height:30px;
+	line-height:30px;
+	text-indent:18px;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.art1 ul p{
+	float:right;
+	height:30px;
+	line-height:30px;
+	margin-right:12px;
+}
+.more1{	
+	width:428px;
+	height:20px;
+	margin-left:4px;
+	margin-top:8px;
+	background:url(../images/index_r12_c2.png) no-repeat bottom;
+}
+.sec1{
+	float:left;
+}
+.sec2{
+	float:left;
+	}
+.art2{
+	float:right;
+	width:430px;
+	height:227px;
+	border-image-source:url(../images/border.png);
+	border-image-slice:8 fill;
+	border-image-width:8px;	
+	border-image-repeat: round;
+	margin-top:-247px;
+}
+.art2 .line{
+	width:424px;
+	height:35px;
+	line-height:35px;
+	margin:auto;
+	margin-left:0px;
+	background:url(../images/index_r7_c3.png) no-repeat;
+}
+.art2 span a{
+	padding:30px;
+	font-weight:bold;
+	line-height:40px;
+}
+.art2 ul li{
+	height:30px;	
+	background:url(../images/dot.jpg) no-repeat left center;
+}
+.art2 ul{
+	margin-left:15px;
+	margin-top:10px;
+}
+.art2 ul a{
+	width:280px;
+	float:left;
+	height:30px;
+	line-height:30px;
+	text-indent:18px;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.art2 ul p{
+	float:right;
+	height:30px;
+	line-height:30px;
+	margin-right:12px;
+}
+.more2{	
+	width:420px;
+	height:20px;
+	margin-left:3px;
+	margin-top:8px;
+	background:url(../images/index_r12_c2.png) no-repeat;
+}
+.a1{
+	width:351px;
+	height:30px;
+	background:#FF6400;
+	text-align:center;
+}
+.a1 a{
+	display:block;
+	line-height:30px;
+	font-weight:bold;
+}
+.a2{
+	width:351px;
+	height:91px;
+	background:url(../images/index_r5_c5.png) no-repeat;
+}
+.a3{
+	width:351px;
+	height:29px;
+	background:#8FC320;
+	text-align:center;
+}
+.a3 a{
+	display:block;
+	line-height:29px;
+	font-weight:bold;
+}
+.art3 ul a{
+	display:block;
+	width:280px;
+	height:30px;
+	line-height:30px;
+	text-indent:18px;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.art3 ul li{	
+	background:url(../images/dot.jpg) no-repeat left center;
+}
+.art3 ul{
+	margin-left:30px;
+	margin-top:10px;
+}
+.art4 ul li{	
+	background:url(../images/dot.jpg) no-repeat left center;
+}
+.art4 ul{
+	margin-left:30px;
+	margin-top:10px;
+}
+.art4 ul a{
+	display:block;
+	width:280px;
+	height:30px;
+	line-height:30px;
+	text-indent:18px;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	white-space:nowrap;
+}
+.s{
+	margin-left:15px;
+	margin-top:10px;
+}
+.art4 ul p{
+	height:30px;
+	line-height:30px;
+	margin-right:10px;
+}
